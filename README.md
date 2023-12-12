@@ -1,1 +1,1 @@
-# spinjitzuu_wiki
+# official documentation for spinjitzuu
